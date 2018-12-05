@@ -1,0 +1,76 @@
+.name-premio{
+	font-size: 20px;
+	margin: 15px 0px;
+}
+p.vencedores{
+	margin-bottom: 7px;
+}
+.btn-primary {
+	background-color: #7f049e;
+	border-color: #7f049e;
+}
+.btn-primary:hover{
+	background-color: white;
+	color:#7f049e;
+	border-color: :#7f049e;
+}
+.progress-bar{
+	background-color: #7f049e;
+}
+
+.jumbotron{
+	background-color: transparent;
+	padding-top: 20px;
+}
+
+.jumbo-aposta{
+
+	padding-bottom: 20px;
+	position: relative;
+	background-color: #c1b6b6;
+	/* top:200px; */
+
+}
+
+#aposta-feita{
+	background-color: #c1b6b6;
+	padding: 10px 0px;
+}
+
+.progress{
+	margin-bottom: 20px;
+}
+
+hr{
+
+	color: black;
+	height: 0.5px;
+	background-color:black;"
+}
+
+#n-fichas{
+	margin: 0px 20px;
+	color: white;
+}
+
+
+/* espacamento do topo da pagina com a linha*/
+
+.line-topico{
+	margin-top: 20px;
+}
+
+/*cor navbar*/
+
+.bg-dark{
+	background-color: #7f049e !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: white;
+}
+
+/*obeter fichas*/
+.espacomento-obter{
+	margin-top: 15%;
+}
